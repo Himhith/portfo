@@ -1,0 +1,5 @@
+
+FROM: fdsafasd@dfasf.com, 
+ SUBJECT: TEMAT,
+
+to jest moja wiadomoœæ 
